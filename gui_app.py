@@ -7,10 +7,10 @@ import threading
 from excel_processor import process_excel_file
 
 
-class ExcelProcessorApp:
+class KrecTrecApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Excel File Processor")
+        self.root.title("KREC/TREC Processor")
         self.root.geometry("600x400")
         self.root.configure(bg="#f0f0f0")
         
@@ -172,7 +172,7 @@ class ExcelProcessorApp:
 def main():
     # Create the main window with drag-and-drop support
     root = TkinterDnD.Tk()
-    app = ExcelProcessorApp(root)
+    app = KrecTrecApp(root)
     root.mainloop()
 
 

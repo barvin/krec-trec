@@ -4,7 +4,7 @@
 
 ### Running the Application
 
-1. **Locate the file**: `dist\ExcelProcessor.exe`
+1. **Locate the file**: `dist\krec_trec.exe`
 2. **Double-click** to run the application
 3. A window will open with a drag-and-drop area
 
@@ -46,7 +46,7 @@ For each sample:
 
 ## Deploying to Another Computer
 
-1. **Copy** `ExcelProcessor.exe` to the target computer
+1. **Copy** `krec_trec.exe` to the target computer
 2. **That's it!** No installation needed
 3. Works on any Windows 10/11 computer
 

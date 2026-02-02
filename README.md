@@ -25,7 +25,7 @@ The application processes Excel files by:
 
 ### Option 1: Use the Pre-built Executable (Recommended)
 
-1. Copy `ExcelProcessor.exe` to your computer
+1. Copy `krec_trec.exe` to your computer
 2. Double-click to run
 3. No installation required!
 
@@ -44,7 +44,7 @@ The application processes Excel files by:
 
 ## Usage
 
-1. **Run the Application**: Double-click `ExcelProcessor.exe`
+1. **Run the Application**: Double-click `krec_trec.exe`
 2. **Process a File**: 
    - Drag and drop an Excel file onto the window, OR
    - Click on the drop area to browse for a file

@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='ExcelProcessor',
+    name='krec_trec',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

@@ -24,7 +24,7 @@ def main():
         "pyinstaller",
         "--onefile",  # Create a single executable file
         "--windowed",  # No console window (GUI only)
-        "--name=ExcelProcessor",  # Name of the executable
+        "--name=krec_trec",  # Name of the executable
         "--icon=NONE",  # No icon (can be added later if needed)
         "--add-data=excel_processor.py;.",  # Include the processor module
         "--clean",  # Clean PyInstaller cache
@@ -40,7 +40,7 @@ def main():
         print("BUILD SUCCESSFUL!")
         print("=" * 50)
         print("\nThe executable file is located at:")
-        print("  dist\\ExcelProcessor.exe")
+        print("  dist\\krec_trec.exe")
         print("\nYou can copy this .exe file to any Windows computer")
         print("and it will run without requiring Python installation.")
         print("=" * 50)
